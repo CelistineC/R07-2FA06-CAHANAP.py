@@ -1,5 +1,4 @@
 # R07-2FA06-CAHANAP.py
-
 first_name = input("Enter your first name: ")
 last_name = input("Enter your last name: ")
 section_name = input("Enter your section: ")
